@@ -1,0 +1,16 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+!cache/.gitkeep
+*.DS_Store
+.env
+.phpunit.result.cache
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+cache/*
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+readme.md
