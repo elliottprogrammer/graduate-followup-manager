@@ -15,7 +15,7 @@
 </head>
 <body class="flex-with-footer">
     <header id="header">
-        <div class="header__title">Fresh Start Graduate Follow-up</div>
+        <div class="header__title">Graduate Follow-up Tracker</div>
         @yield('userinfo')
     </header>
     @yield('titlebar')
@@ -24,7 +24,7 @@
     </section>
     <section id="footer" class="z-depth-2">
         <div class="container">
-            <p class="center-align mt30 mb30">&copy; 2018 | Narconon Fresh Start Inc. | Grad Follow-Up App | Ver 0.1.1</p>
+            <p class="center-align mt30 mb30">&copy; 2018 | graduate.elliottprogrammer.com | Grad Follow-Up App | Ver 0.1.1</p>
         </div>
     </section>
     @yield('modals')

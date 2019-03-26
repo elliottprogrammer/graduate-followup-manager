@@ -43,7 +43,14 @@
                 <a href="{{ route('password.request') }}">Forgot Password?</a>
             </div>
         @endif
-    </div>  
+    </div>
+    <div class="center-align mt50" style="font-weight: 400; max-width:380px; margin: 50px auto 0">
+        <h4>This is only a Demo!</h4>
+        <p>Login to explore the demo.<p>
+        <p style="font-size: 20px;"><strong>Use the following credentials:</strong><p>
+        <p><small><b>Email:</b></small> <i>guest@elliottprogrammer.com</i><br/>
+        <small><b>Password:</b></small> <i>password</i></p>
+    </div>
 </div>
 @endsection
 @section('scripts')
