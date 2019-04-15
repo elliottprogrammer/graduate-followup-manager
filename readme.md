@@ -1,6 +1,8 @@
 ## Rehab Graduate Contact Admin Specs
 
-### Completed application demo here: [graduate.elliottprogrammer.com](http://graduate.elliottprogrammer.com/login)
+### Live Demo:
+
+[graduate.elliottprogrammer.com](http://graduate.elliottprogrammer.com/login)
 
 ### Overview:
 
